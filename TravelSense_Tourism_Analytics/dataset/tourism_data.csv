@@ -1,0 +1,433 @@
+Destination,Category,Year,Month,Month_Name,Season,Domestic_Tourists,Foreign_Tourists,Hotel_Occupancy,Festival_Event,Tourist_Footfall
+Goa,Beach,2019,1,January,Winter,15233,1693,60.6,0,16926
+Goa,Beach,2019,2,February,Winter,18048,1983,73.4,1,20031
+Goa,Beach,2019,3,March,Summer,20371,2213,69.8,0,22584
+Goa,Beach,2019,4,April,Summer,21384,2297,72.6,0,23681
+Goa,Beach,2019,5,May,Summer,22343,2373,75.4,0,24716
+Goa,Beach,2019,6,June,Monsoon,23918,2511,79.1,0,26429
+Goa,Beach,2019,7,July,Monsoon,20725,2150,72.9,0,22875
+Goa,Beach,2019,8,August,Monsoon,21582,2213,75.4,0,23795
+Goa,Beach,2019,9,September,Monsoon,23117,2342,78.8,0,25459
+Goa,Beach,2019,10,October,Autumn,28314,3146,84.0,1,31460
+Goa,Beach,2019,11,November,Autumn,33334,3663,91.6,1,36997
+Goa,Beach,2019,12,December,Winter,36653,3982,96.0,1,40635
+Goa,Beach,2020,1,January,Winter,14435,1551,62.6,0,15986
+Goa,Beach,2020,2,February,Winter,19476,2068,75.4,1,21544
+Goa,Beach,2020,3,March,Summer,21989,2308,71.8,0,24297
+Goa,Beach,2020,4,April,Summer,23092,2396,74.6,0,25488
+Goa,Beach,2020,5,May,Summer,24138,2475,77.4,0,26613
+Goa,Beach,2020,6,June,Monsoon,25851,2619,81.1,0,28470
+Goa,Beach,2020,7,July,Monsoon,19466,2163,74.9,0,21629
+Goa,Beach,2020,8,August,Monsoon,23054,2533,67.4,0,25587
+Goa,Beach,2020,9,September,Monsoon,24702,2684,70.8,0,27386
+Goa,Beach,2020,10,October,Autumn,30570,3284,86.0,1,33854
+Goa,Beach,2020,11,November,Autumn,36005,3823,93.6,1,39828
+Goa,Beach,2020,12,December,Winter,39606,4157,96.0,1,43763
+Goa,Beach,2021,1,January,Winter,15562,1615,64.6,0,17177
+Goa,Beach,2021,2,February,Winter,18405,1887,77.4,1,20292
+Goa,Beach,2021,3,March,Summer,23663,2398,73.8,0,26061
+Goa,Beach,2021,4,April,Summer,24613,2735,76.6,0,27348
+Goa,Beach,2021,5,May,Summer,25738,2828,79.4,0,28566
+Goa,Beach,2021,6,June,Monsoon,27575,2996,73.1,0,30571
+Goa,Beach,2021,7,July,Monsoon,20981,2254,66.9,0,23235
+Goa,Beach,2021,8,August,Monsoon,21811,2316,69.4,0,24127
+Goa,Beach,2021,9,September,Monsoon,26578,2790,72.8,0,29368
+Goa,Beach,2021,10,October,Autumn,32903,3414,88.0,1,36317
+Goa,Beach,2021,11,November,Autumn,38768,3975,95.6,1,42743
+Goa,Beach,2021,12,December,Winter,42661,4323,96.0,1,46984
+Goa,Beach,2022,1,January,Winter,16564,1840,66.6,0,18404
+Goa,Beach,2022,2,February,Winter,19598,2153,79.4,1,21751
+Goa,Beach,2022,3,March,Summer,22086,2400,75.8,0,24486
+Goa,Beach,2022,4,April,Summer,26422,2838,68.6,0,29260
+Goa,Beach,2022,5,May,Summer,27640,2935,71.4,0,30575
+Goa,Beach,2022,6,June,Monsoon,29624,3110,75.1,0,32734
+Goa,Beach,2022,7,July,Monsoon,22549,2340,68.9,0,24889
+Goa,Beach,2022,8,August,Monsoon,23451,2405,71.4,0,25856
+Goa,Beach,2022,9,September,Monsoon,25083,2541,74.8,0,27624
+Goa,Beach,2022,10,October,Autumn,34965,3885,90.0,1,38850
+Goa,Beach,2022,11,November,Autumn,41212,4528,96.0,1,45740
+Goa,Beach,2022,12,December,Winter,45369,4929,96.0,1,50298
+Goa,Beach,2023,1,January,Winter,17758,1908,68.6,0,19666
+Goa,Beach,2023,2,February,Winter,21020,2232,71.4,1,23252
+Goa,Beach,2023,3,March,Summer,23700,2488,67.8,0,26188
+Goa,Beach,2023,4,April,Summer,24852,2579,70.6,0,27431
+Goa,Beach,2023,5,May,Summer,29604,3036,73.4,0,32640
+Goa,Beach,2023,6,June,Monsoon,31743,3216,77.1,0,34959
+Goa,Beach,2023,7,July,Monsoon,23932,2659,70.9,0,26591
+Goa,Beach,2023,8,August,Monsoon,24898,2736,73.4,0,27634
+Goa,Beach,2023,9,September,Monsoon,26643,2895,76.8,0,29538
+Goa,Beach,2023,10,October,Autumn,32925,3537,92.0,1,36462
+Goa,Beach,2023,11,November,Autumn,44134,4687,96.0,1,48821
+Goa,Beach,2023,12,December,Winter,48604,5102,95.4,1,53706
+Goa,Beach,2024,1,January,Winter,18993,1971,60.6,0,20964
+Goa,Beach,2024,2,February,Winter,22490,2306,73.4,1,24796
+Goa,Beach,2024,3,March,Summer,25369,2570,69.8,0,27939
+Goa,Beach,2024,4,April,Summer,26350,2928,72.6,0,29278
+Goa,Beach,2024,5,May,Summer,27515,3023,75.4,0,30538
+Goa,Beach,2024,6,June,Monsoon,33594,3650,79.1,0,37244
+Goa,Beach,2024,7,July,Monsoon,25591,2749,72.9,0,28340
+Goa,Beach,2024,8,August,Monsoon,26635,2829,75.4,0,29464
+Goa,Beach,2024,9,September,Monsoon,28513,2993,78.8,0,31506
+Goa,Beach,2024,10,October,Autumn,35251,3657,84.0,1,38908
+Goa,Beach,2024,11,November,Autumn,41474,4253,91.6,1,45727
+Goa,Beach,2024,12,December,Winter,51943,5263,96.0,1,57206
+Jaipur,Heritage,2019,1,January,Winter,12268,1273,62.6,0,13541
+Jaipur,Heritage,2019,2,February,Winter,13211,1355,65.4,0,14566
+Jaipur,Heritage,2019,3,March,Summer,16398,1662,71.8,0,18060
+Jaipur,Heritage,2019,4,April,Summer,17211,1723,74.6,0,18934
+Jaipur,Heritage,2019,5,May,Summer,17979,1778,77.4,0,19757
+Jaipur,Heritage,2019,6,June,Monsoon,19242,1880,81.1,0,21122
+Jaipur,Heritage,2019,7,July,Monsoon,16691,1611,74.9,0,18302
+Jaipur,Heritage,2019,8,August,Monsoon,17378,1656,67.4,0,19034
+Jaipur,Heritage,2019,9,September,Monsoon,18611,1751,70.8,0,20362
+Jaipur,Heritage,2019,10,October,Autumn,22791,2365,86.0,1,25156
+Jaipur,Heritage,2019,11,November,Autumn,26826,2751,93.6,1,29577
+Jaipur,Heritage,2019,12,December,Winter,29491,2988,96.0,1,32479
+Jaipur,Heritage,2020,1,January,Winter,13235,1325,64.6,0,14560
+Jaipur,Heritage,2020,2,February,Winter,14258,1410,67.4,0,15668
+Jaipur,Heritage,2020,3,March,Summer,17704,1730,73.8,0,19434
+Jaipur,Heritage,2020,4,April,Summer,18589,1794,76.6,0,20383
+Jaipur,Heritage,2020,5,May,Summer,19427,1851,79.4,0,21278
+Jaipur,Heritage,2020,6,June,Monsoon,20801,1957,73.1,0,22758
+Jaipur,Heritage,2020,7,July,Monsoon,15660,1625,66.9,0,17285
+Jaipur,Heritage,2020,8,August,Monsoon,18567,1904,69.4,0,20471
+Jaipur,Heritage,2020,9,September,Monsoon,19892,2015,72.8,0,21907
+Jaipur,Heritage,2020,10,October,Autumn,24612,2464,88.0,1,27076
+Jaipur,Heritage,2020,11,November,Autumn,28981,2866,95.6,1,31847
+Jaipur,Heritage,2020,12,December,Winter,31872,3114,96.0,1,34986
+Jaipur,Heritage,2021,1,January,Winter,12522,1208,66.6,0,13730
+Jaipur,Heritage,2021,2,February,Winter,15340,1462,69.4,0,16802
+Jaipur,Heritage,2021,3,March,Summer,19055,1793,75.8,0,20848
+Jaipur,Heritage,2021,4,April,Summer,19818,2056,68.6,0,21874
+Jaipur,Heritage,2021,5,May,Summer,20720,2124,71.4,0,22844
+Jaipur,Heritage,2021,6,June,Monsoon,22194,2249,75.1,0,24443
+Jaipur,Heritage,2021,7,July,Monsoon,16883,1690,68.9,0,18573
+Jaipur,Heritage,2021,8,August,Monsoon,17547,1735,71.4,0,19282
+Jaipur,Heritage,2021,9,September,Monsoon,21405,2091,74.8,0,23496
+Jaipur,Heritage,2021,10,October,Autumn,26495,2556,90.0,1,29051
+Jaipur,Heritage,2021,11,November,Autumn,31211,2974,96.0,1,34185
+Jaipur,Heritage,2021,12,December,Winter,34338,3231,96.0,1,37569
+Jaipur,Heritage,2022,1,January,Winter,13330,1383,68.6,0,14713
+Jaipur,Heritage,2022,2,February,Winter,14334,1470,61.4,0,15804
+Jaipur,Heritage,2022,3,March,Summer,20250,2052,67.8,0,22302
+Jaipur,Heritage,2022,4,April,Summer,21278,2130,70.6,0,23408
+Jaipur,Heritage,2022,5,May,Summer,22254,2201,73.4,0,24455
+Jaipur,Heritage,2022,6,June,Monsoon,23848,2330,77.1,0,26178
+Jaipur,Heritage,2022,7,July,Monsoon,18149,1751,70.9,0,19900
+Jaipur,Heritage,2022,8,August,Monsoon,18870,1798,73.4,0,20668
+Jaipur,Heritage,2022,9,September,Monsoon,20178,1899,76.8,0,22077
+Jaipur,Heritage,2022,10,October,Autumn,28161,2922,92.0,1,31083
+Jaipur,Heritage,2022,11,November,Autumn,33186,3403,96.0,1,36589
+Jaipur,Heritage,2022,12,December,Winter,36526,3701,95.4,1,40227
+Jaipur,Heritage,2023,1,January,Winter,14295,1431,60.6,0,15726
+Jaipur,Heritage,2023,2,February,Winter,15378,1521,63.4,0,16899
+Jaipur,Heritage,2023,3,March,Summer,19069,1863,69.8,0,20932
+Jaipur,Heritage,2023,4,April,Summer,22786,2199,72.6,0,24985
+Jaipur,Heritage,2023,5,May,Summer,23840,2272,75.4,0,26112
+Jaipur,Heritage,2023,6,June,Monsoon,25557,2405,79.1,0,27962
+Jaipur,Heritage,2023,7,July,Monsoon,19266,1999,72.9,0,21265
+Jaipur,Heritage,2023,8,August,Monsoon,20040,2055,75.4,0,22095
+Jaipur,Heritage,2023,9,September,Monsoon,21439,2172,78.8,0,23611
+Jaipur,Heritage,2023,10,October,Autumn,26488,2652,84.0,1,29140
+Jaipur,Heritage,2023,11,November,Autumn,35545,3515,91.6,1,39060
+Jaipur,Heritage,2023,12,December,Winter,39137,3824,96.0,1,42961
+Jaipur,Heritage,2024,1,January,Winter,15292,1475,62.6,0,16767
+Jaipur,Heritage,2024,2,February,Winter,16457,1568,65.4,0,18025
+Jaipur,Heritage,2024,3,March,Summer,20415,1921,71.8,0,22336
+Jaipur,Heritage,2024,4,April,Summer,21201,2200,74.6,0,23401
+Jaipur,Heritage,2024,5,May,Summer,25227,2587,77.4,0,27814
+Jaipur,Heritage,2024,6,June,Monsoon,27054,2741,81.1,0,29795
+Jaipur,Heritage,2024,7,July,Monsoon,20605,2063,74.9,0,22668
+Jaipur,Heritage,2024,8,August,Monsoon,21441,2121,67.4,0,23562
+Jaipur,Heritage,2024,9,September,Monsoon,22948,2242,70.8,0,25190
+Jaipur,Heritage,2024,10,October,Autumn,28365,2737,86.0,1,31102
+Jaipur,Heritage,2024,11,November,Autumn,33366,3179,93.6,1,36545
+Jaipur,Heritage,2024,12,December,Winter,41833,3936,96.0,1,45769
+Manali,Hill Station,2019,1,January,Winter,10615,1199,64.6,0,11814
+Manali,Hill Station,2019,2,February,Winter,11429,1277,67.4,0,12706
+Manali,Hill Station,2019,3,March,Summer,14184,1567,73.8,0,15751
+Manali,Hill Station,2019,4,April,Summer,14883,1626,76.6,0,16509
+Manali,Hill Station,2019,5,May,Summer,15545,1679,79.4,0,17224
+Manali,Hill Station,2019,6,June,Monsoon,20854,2227,83.1,1,23081
+Manali,Hill Station,2019,7,July,Monsoon,14444,1525,66.9,0,15969
+Manali,Hill Station,2019,8,August,Monsoon,15037,1569,69.4,0,16606
+Manali,Hill Station,2019,9,September,Monsoon,16099,1661,72.8,0,17760
+Manali,Hill Station,2019,10,October,Autumn,19710,2227,88.0,1,21937
+Manali,Hill Station,2019,11,November,Autumn,23196,2592,95.6,1,25788
+Manali,Hill Station,2019,12,December,Winter,25494,2817,96.0,1,28311
+Manali,Hill Station,2020,1,January,Winter,11454,1252,66.6,0,12706
+Manali,Hill Station,2020,2,February,Winter,12337,1333,69.4,0,13670
+Manali,Hill Station,2020,3,March,Summer,15317,1636,75.8,0,16953
+Manali,Hill Station,2020,4,April,Summer,16079,1698,68.6,0,17777
+Manali,Hill Station,2020,5,May,Summer,16800,1753,71.4,0,18553
+Manali,Hill Station,2020,6,June,Monsoon,19783,2040,85.1,1,21823
+Manali,Hill Station,2020,7,July,Monsoon,15428,1743,68.9,0,17171
+Manali,Hill Station,2020,8,August,Monsoon,16067,1795,71.4,0,17862
+Manali,Hill Station,2020,9,September,Monsoon,17210,1902,74.8,0,19112
+Manali,Hill Station,2020,10,October,Autumn,21290,2326,90.0,1,23616
+Manali,Hill Station,2020,11,November,Autumn,25065,2708,96.0,1,27773
+Manali,Hill Station,2020,12,December,Winter,27560,2944,96.0,1,30504
+Manali,Hill Station,2021,1,January,Winter,10825,1143,68.6,0,11968
+Manali,Hill Station,2021,2,February,Winter,13276,1386,61.4,0,14662
+Manali,Hill Station,2021,3,March,Summer,16489,1701,67.8,0,18190
+Manali,Hill Station,2021,4,April,Summer,17144,1937,70.6,0,19081
+Manali,Hill Station,2021,5,May,Summer,17921,2002,73.4,0,19923
+Manali,Hill Station,2021,6,June,Monsoon,21112,2333,87.1,1,23445
+Manali,Hill Station,2021,7,July,Monsoon,14597,1595,70.9,0,16192
+Manali,Hill Station,2021,8,August,Monsoon,17287,1868,73.4,0,19155
+Manali,Hill Station,2021,9,September,Monsoon,18524,1978,76.8,0,20502
+Manali,Hill Station,2021,10,October,Autumn,22924,2420,92.0,1,25344
+Manali,Hill Station,2021,11,November,Autumn,26999,2818,96.0,1,29817
+Manali,Hill Station,2021,12,December,Winter,29699,3063,95.4,1,32762
+Manali,Hill Station,2022,1,January,Winter,11526,1302,60.6,0,12828
+Manali,Hill Station,2022,2,February,Winter,12392,1384,63.4,0,13776
+Manali,Hill Station,2022,3,March,Summer,17526,1936,69.8,0,19462
+Manali,Hill Station,2022,4,April,Summer,18411,2012,72.6,0,20423
+Manali,Hill Station,2022,5,May,Summer,19253,2080,75.4,0,21333
+Manali,Hill Station,2022,6,June,Monsoon,22690,2424,89.1,1,25114
+Manali,Hill Station,2022,7,July,Monsoon,15695,1657,72.9,0,17352
+Manali,Hill Station,2022,8,August,Monsoon,16315,1703,75.4,0,18018
+Manali,Hill Station,2022,9,September,Monsoon,19881,2051,78.8,0,21932
+Manali,Hill Station,2022,10,October,Autumn,24369,2753,84.0,1,27122
+Manali,Hill Station,2022,11,November,Autumn,28712,3208,91.6,1,31920
+Manali,Hill Station,2022,12,December,Winter,31596,3491,96.0,1,35087
+Manali,Hill Station,2023,1,January,Winter,12363,1351,62.6,0,13714
+Manali,Hill Station,2023,2,February,Winter,13297,1437,65.4,0,14734
+Manali,Hill Station,2023,3,March,Summer,16485,1761,71.8,0,18246
+Manali,Hill Station,2023,4,April,Summer,19721,2082,74.6,0,21803
+Manali,Hill Station,2023,5,May,Summer,20629,2153,77.4,0,22782
+Manali,Hill Station,2023,6,June,Monsoon,24322,2509,91.1,1,26831
+Manali,Hill Station,2023,7,July,Monsoon,16664,1882,74.9,0,18546
+Manali,Hill Station,2023,8,August,Monsoon,17330,1936,67.4,0,19266
+Manali,Hill Station,2023,9,September,Monsoon,18536,2048,70.8,0,20584
+Manali,Hill Station,2023,10,October,Autumn,26097,2851,86.0,1,28948
+Manali,Hill Station,2023,11,November,Autumn,30760,3323,93.6,1,34083
+Manali,Hill Station,2023,12,December,Winter,33862,3617,96.0,1,37479
+Manali,Hill Station,2024,1,January,Winter,13227,1397,64.6,0,14624
+Manali,Hill Station,2024,2,February,Winter,14234,1485,67.4,0,15719
+Manali,Hill Station,2024,3,March,Summer,17653,1821,73.8,0,19474
+Manali,Hill Station,2024,4,April,Summer,18328,2070,76.6,0,20398
+Manali,Hill Station,2024,5,May,Summer,21833,2439,79.4,0,24272
+Manali,Hill Station,2024,6,June,Monsoon,25750,2845,83.1,1,28595
+Manali,Hill Station,2024,7,July,Monsoon,17825,1948,66.9,0,19773
+Manali,Hill Station,2024,8,August,Monsoon,18545,2004,69.4,0,20549
+Manali,Hill Station,2024,9,September,Monsoon,19845,2120,72.8,0,21965
+Manali,Hill Station,2024,10,October,Autumn,24525,2589,88.0,1,27114
+Manali,Hill Station,2024,11,November,Autumn,32873,3431,95.6,1,36304
+Manali,Hill Station,2024,12,December,Winter,36202,3734,96.0,1,39936
+Kerala,Nature,2019,1,January,Winter,13486,1375,66.6,0,14861
+Kerala,Nature,2019,2,February,Winter,14518,1462,69.4,0,15980
+Kerala,Nature,2019,3,March,Summer,18014,1792,75.8,0,19806
+Kerala,Nature,2019,4,April,Summer,18897,1858,68.6,0,20755
+Kerala,Nature,2019,5,May,Summer,19732,1916,71.4,0,21648
+Kerala,Nature,2019,6,June,Monsoon,24092,2310,75.1,0,26402
+Kerala,Nature,2019,7,July,Monsoon,18352,1738,68.9,0,20090
+Kerala,Nature,2019,8,August,Monsoon,19101,1786,71.4,0,20887
+Kerala,Nature,2019,9,September,Monsoon,20447,1887,74.8,0,22334
+Kerala,Nature,2019,10,October,Autumn,25031,2551,90.0,1,27582
+Kerala,Nature,2019,11,November,Autumn,29450,2966,96.0,1,32416
+Kerala,Nature,2019,12,December,Winter,36883,3670,96.0,1,40553
+Kerala,Nature,2020,1,January,Winter,14555,1431,68.6,0,15986
+Kerala,Nature,2020,2,February,Winter,15674,1522,61.4,0,17196
+Kerala,Nature,2020,3,March,Summer,19456,1866,67.8,0,21322
+Kerala,Nature,2020,4,April,Summer,20419,1934,70.6,0,22353
+Kerala,Nature,2020,5,May,Summer,21331,1994,73.4,0,23325
+Kerala,Nature,2020,6,June,Monsoon,22829,2107,77.1,0,24936
+Kerala,Nature,2020,7,July,Monsoon,19608,1999,70.9,0,21607
+Kerala,Nature,2020,8,August,Monsoon,20416,2056,73.4,0,22472
+Kerala,Nature,2020,9,September,Monsoon,21863,2176,76.8,0,24039
+Kerala,Nature,2020,10,October,Autumn,27041,2658,92.0,1,29699
+Kerala,Nature,2020,11,November,Autumn,31829,3090,96.0,1,34919
+Kerala,Nature,2020,12,December,Winter,34989,3355,95.4,1,38344
+Kerala,Nature,2021,1,January,Winter,15660,1483,60.6,0,17143
+Kerala,Nature,2021,2,February,Winter,16870,1577,63.4,0,18447
+Kerala,Nature,2021,3,March,Summer,20948,1934,69.8,0,22882
+Kerala,Nature,2021,4,April,Summer,21778,2220,72.6,0,23998
+Kerala,Nature,2021,5,May,Summer,22760,2292,75.4,0,25052
+Kerala,Nature,2021,6,June,Monsoon,24370,2425,79.1,0,26795
+Kerala,Nature,2021,7,July,Monsoon,18530,1822,72.9,0,20352
+Kerala,Nature,2021,8,August,Monsoon,21970,2133,75.4,0,24103
+Kerala,Nature,2021,9,September,Monsoon,23536,2257,78.8,0,25793
+Kerala,Nature,2021,10,October,Autumn,29121,2757,84.0,1,31878
+Kerala,Nature,2021,11,November,Autumn,34291,3206,91.6,1,37497
+Kerala,Nature,2021,12,December,Winter,37711,3481,96.0,1,41192
+Kerala,Nature,2022,1,January,Winter,14633,1492,62.6,0,16125
+Kerala,Nature,2022,2,February,Winter,17928,1806,65.4,0,19734
+Kerala,Nature,2022,3,March,Summer,22270,2216,71.8,0,24486
+Kerala,Nature,2022,4,April,Summer,23392,2299,74.6,0,25691
+Kerala,Nature,2022,5,May,Summer,24456,2374,77.4,0,26830
+Kerala,Nature,2022,6,June,Monsoon,26196,2512,81.1,0,28708
+Kerala,Nature,2022,7,July,Monsoon,19927,1887,74.9,0,21814
+Kerala,Nature,2022,8,August,Monsoon,20711,1936,67.4,0,22647
+Kerala,Nature,2022,9,September,Monsoon,25265,2332,70.8,0,27597
+Kerala,Nature,2022,10,October,Autumn,30965,3156,86.0,1,34121
+Kerala,Nature,2022,11,November,Autumn,36476,3674,93.6,1,40150
+Kerala,Nature,2022,12,December,Winter,40132,3993,96.0,1,44125
+Kerala,Nature,2023,1,January,Winter,15699,1543,64.6,0,17242
+Kerala,Nature,2023,2,February,Winter,16882,1639,67.4,0,18521
+Kerala,Nature,2023,3,March,Summer,23849,2287,73.8,0,26136
+Kerala,Nature,2023,4,April,Summer,25058,2373,76.6,0,27431
+Kerala,Nature,2023,5,May,Summer,26209,2450,79.4,0,28659
+Kerala,Nature,2023,6,June,Monsoon,28085,2592,73.1,0,30677
+Kerala,Nature,2023,7,July,Monsoon,21163,2157,66.9,0,23320
+Kerala,Nature,2023,8,August,Monsoon,22004,2216,69.4,0,24220
+Kerala,Nature,2023,9,September,Monsoon,23531,2341,72.8,0,25872
+Kerala,Nature,2023,10,October,Autumn,33165,3260,88.0,1,36425
+Kerala,Nature,2023,11,November,Autumn,39083,3795,95.6,1,42878
+Kerala,Nature,2023,12,December,Winter,43017,4125,96.0,1,47142
+Kerala,Nature,2024,1,January,Winter,16800,1591,66.6,0,18391
+Kerala,Nature,2024,2,February,Winter,18073,1690,69.4,0,19763
+Kerala,Nature,2024,3,March,Summer,22411,2068,75.8,0,24479
+Kerala,Nature,2024,4,April,Summer,26516,2703,68.6,0,29219
+Kerala,Nature,2024,5,May,Summer,27744,2794,71.4,0,30538
+Kerala,Nature,2024,6,June,Monsoon,29742,2959,75.1,0,32701
+Kerala,Nature,2024,7,July,Monsoon,22643,2226,68.9,0,24869
+Kerala,Nature,2024,8,August,Monsoon,23553,2287,71.4,0,25840
+Kerala,Nature,2024,9,September,Monsoon,25197,2416,74.8,0,27613
+Kerala,Nature,2024,10,October,Autumn,31131,2948,90.0,1,34079
+Kerala,Nature,2024,11,November,Autumn,41775,3906,96.0,1,45681
+Kerala,Nature,2024,12,December,Winter,45997,4245,96.0,1,50242
+Agra,Heritage,2019,1,January,Winter,13957,1385,68.6,0,15342
+Agra,Heritage,2019,2,February,Winter,15021,1472,61.4,0,16493
+Agra,Heritage,2019,3,March,Summer,18634,1804,67.8,0,20438
+Agra,Heritage,2019,4,April,Summer,19545,1868,70.6,0,21413
+Agra,Heritage,2019,5,May,Summer,23256,2195,73.4,0,25451
+Agra,Heritage,2019,6,June,Monsoon,24940,2324,77.1,0,27264
+Agra,Heritage,2019,7,July,Monsoon,18994,1748,70.9,0,20742
+Agra,Heritage,2019,8,August,Monsoon,19765,1795,73.4,0,21560
+Agra,Heritage,2019,9,September,Monsoon,21154,1896,76.8,0,23050
+Agra,Heritage,2019,10,October,Autumn,25891,2568,92.0,1,28459
+Agra,Heritage,2019,11,November,Autumn,30455,2985,96.0,1,33440
+Agra,Heritage,2019,12,December,Winter,38184,3696,95.4,1,41880
+Agra,Heritage,2020,1,January,Winter,15066,1440,60.6,0,16506
+Agra,Heritage,2020,2,February,Winter,16221,1531,63.4,0,17752
+Agra,Heritage,2020,3,March,Summer,20131,1876,69.8,0,22007
+Agra,Heritage,2020,4,April,Summer,21123,1943,72.6,0,23066
+Agra,Heritage,2020,5,May,Summer,22061,2003,75.4,0,24064
+Agra,Heritage,2020,6,June,Monsoon,26905,2411,79.1,0,29316
+Agra,Heritage,2020,7,July,Monsoon,20298,2014,72.9,0,22312
+Agra,Heritage,2020,8,August,Monsoon,21130,2071,75.4,0,23201
+Agra,Heritage,2020,9,September,Monsoon,22624,2190,78.8,0,24814
+Agra,Heritage,2020,10,October,Autumn,27976,2674,84.0,1,30650
+Agra,Heritage,2020,11,November,Autumn,32921,3108,91.6,1,36029
+Agra,Heritage,2020,12,December,Winter,36183,3372,96.0,1,39555
+Agra,Heritage,2021,1,January,Winter,16212,1492,62.6,0,17704
+Agra,Heritage,2021,2,February,Winter,17461,1586,65.4,0,19047
+Agra,Heritage,2021,3,March,Summer,21679,1943,71.8,0,23622
+Agra,Heritage,2021,4,April,Summer,22534,2235,74.6,0,24769
+Agra,Heritage,2021,5,May,Summer,23545,2307,77.4,0,25852
+Agra,Heritage,2021,6,June,Monsoon,25204,2440,81.1,0,27644
+Agra,Heritage,2021,7,July,Monsoon,21838,2088,74.9,0,23926
+Agra,Heritage,2021,8,August,Monsoon,22742,2147,67.4,0,24889
+Agra,Heritage,2021,9,September,Monsoon,24359,2270,70.8,0,26629
+Agra,Heritage,2021,10,October,Autumn,30134,2772,86.0,1,32906
+Agra,Heritage,2021,11,November,Autumn,35475,3222,93.6,1,38697
+Agra,Heritage,2021,12,December,Winter,39007,3496,96.0,1,42503
+Agra,Heritage,2022,1,January,Winter,15134,1501,64.6,0,16635
+Agra,Heritage,2022,2,February,Winter,18560,1819,67.4,0,20379
+Agra,Heritage,2022,3,March,Summer,23052,2231,73.8,0,25283
+Agra,Heritage,2022,4,April,Summer,24208,2314,76.6,0,26522
+Agra,Heritage,2022,5,May,Summer,25304,2388,79.4,0,27692
+Agra,Heritage,2022,6,June,Monsoon,27099,2525,73.1,0,29624
+Agra,Heritage,2022,7,July,Monsoon,20610,1896,66.9,0,22506
+Agra,Heritage,2022,8,August,Monsoon,24408,2216,69.4,0,26624
+Agra,Heritage,2022,9,September,Monsoon,26153,2344,72.8,0,28497
+Agra,Heritage,2022,10,October,Autumn,32048,3179,88.0,1,35227
+Agra,Heritage,2022,11,November,Autumn,37745,3699,95.6,1,41444
+Agra,Heritage,2022,12,December,Winter,41519,4019,96.0,1,45538
+Agra,Heritage,2023,1,January,Winter,16239,1552,66.6,0,17791
+Agra,Heritage,2023,2,February,Winter,17458,1648,69.4,0,19106
+Agra,Heritage,2023,3,March,Summer,24690,2301,75.8,0,26991
+Agra,Heritage,2023,4,April,Summer,25938,2386,68.6,0,28324
+Agra,Heritage,2023,5,May,Summer,27122,2463,71.4,0,29585
+Agra,Heritage,2023,6,June,Monsoon,29058,2604,75.1,0,31662
+Agra,Heritage,2023,7,July,Monsoon,21892,2172,68.9,0,24064
+Agra,Heritage,2023,8,August,Monsoon,22758,2230,71.4,0,24988
+Agra,Heritage,2023,9,September,Monsoon,27732,2684,74.8,0,30416
+Agra,Heritage,2023,10,October,Autumn,34332,3282,90.0,1,37614
+Agra,Heritage,2023,11,November,Autumn,40450,3818,96.0,1,44268
+Agra,Heritage,2023,12,December,Winter,44513,4148,96.0,1,48661
+Agra,Heritage,2024,1,January,Winter,17381,1599,68.6,0,18980
+Agra,Heritage,2024,2,February,Winter,18694,1698,61.4,0,20392
+Agra,Heritage,2024,3,March,Summer,23175,2077,67.8,0,25252
+Agra,Heritage,2024,4,April,Summer,27452,2723,70.6,0,30175
+Agra,Heritage,2024,5,May,Summer,28717,2814,73.4,0,31531
+Agra,Heritage,2024,6,June,Monsoon,30779,2979,77.1,0,33758
+Agra,Heritage,2024,7,July,Monsoon,23428,2240,70.9,0,25668
+Agra,Heritage,2024,8,August,Monsoon,24364,2300,73.4,0,26664
+Agra,Heritage,2024,9,September,Monsoon,26060,2429,76.8,0,28489
+Agra,Heritage,2024,10,October,Autumn,36690,3375,92.0,1,40065
+Agra,Heritage,2024,11,November,Autumn,43244,3927,96.0,1,47171
+Agra,Heritage,2024,12,December,Winter,47606,4266,95.4,1,51872
+Darjeeling,Hill Station,2019,1,January,Winter,8973,947,60.6,0,9920
+Darjeeling,Hill Station,2019,2,February,Winter,9654,1008,63.4,0,10662
+Darjeeling,Hill Station,2019,3,March,Summer,11975,1235,69.8,0,13210
+Darjeeling,Hill Station,2019,4,April,Summer,12557,1280,72.6,0,13837
+Darjeeling,Hill Station,2019,5,May,Summer,14958,1506,75.4,0,16464
+Darjeeling,Hill Station,2019,6,June,Monsoon,16038,1596,79.1,0,17634
+Darjeeling,Hill Station,2019,7,July,Monsoon,12213,1200,72.9,0,13413
+Darjeeling,Hill Station,2019,8,August,Monsoon,12705,1234,75.4,0,13939
+Darjeeling,Hill Station,2019,9,September,Monsoon,13595,1304,78.8,0,14899
+Darjeeling,Hill Station,2019,10,October,Autumn,16636,1756,84.0,1,18392
+Darjeeling,Hill Station,2019,11,November,Autumn,22299,2327,91.6,1,24626
+Darjeeling,Hill Station,2019,12,December,Winter,24557,2533,96.0,1,27090
+Darjeeling,Hill Station,2020,1,January,Winter,9688,987,62.6,0,10675
+Darjeeling,Hill Station,2020,2,February,Winter,10428,1050,65.4,0,11478
+Darjeeling,Hill Station,2020,3,March,Summer,12939,1287,71.8,0,14226
+Darjeeling,Hill Station,2020,4,April,Summer,13574,1334,74.6,0,14908
+Darjeeling,Hill Station,2020,5,May,Summer,14174,1376,77.4,0,15550
+Darjeeling,Hill Station,2020,6,June,Monsoon,17306,1659,81.1,0,18965
+Darjeeling,Hill Station,2020,7,July,Monsoon,13053,1378,74.9,0,14431
+Darjeeling,Hill Station,2020,8,August,Monsoon,13585,1418,67.4,0,15003
+Darjeeling,Hill Station,2020,9,September,Monsoon,14543,1500,70.8,0,16043
+Darjeeling,Hill Station,2020,10,October,Autumn,17979,1833,86.0,1,19812
+Darjeeling,Hill Station,2020,11,November,Autumn,21154,2130,93.6,1,23284
+Darjeeling,Hill Station,2020,12,December,Winter,26493,2636,96.0,1,29129
+Darjeeling,Hill Station,2021,1,January,Winter,10427,1025,64.6,0,11452
+Darjeeling,Hill Station,2021,2,February,Winter,11228,1090,67.4,0,12318
+Darjeeling,Hill Station,2021,3,March,Summer,13938,1336,73.8,0,15274
+Darjeeling,Hill Station,2021,4,April,Summer,14483,1529,76.6,0,16012
+Darjeeling,Hill Station,2021,5,May,Summer,15130,1579,79.4,0,16709
+Darjeeling,Hill Station,2021,6,June,Monsoon,16193,1670,73.1,0,17863
+Darjeeling,Hill Station,2021,7,July,Monsoon,14046,1432,66.9,0,15478
+Darjeeling,Hill Station,2021,8,August,Monsoon,14625,1473,69.4,0,16098
+Darjeeling,Hill Station,2021,9,September,Monsoon,15662,1558,72.8,0,17220
+Darjeeling,Hill Station,2021,10,October,Autumn,19371,1904,88.0,1,21275
+Darjeeling,Hill Station,2021,11,November,Autumn,22800,2214,95.6,1,25014
+Darjeeling,Hill Station,2021,12,December,Winter,25065,2403,96.0,1,27468
+Darjeeling,Hill Station,2022,1,January,Winter,11080,1170,66.6,0,12250
+Darjeeling,Hill Station,2022,2,February,Winter,11936,1246,69.4,0,13182
+Darjeeling,Hill Station,2022,3,March,Summer,14822,1529,75.8,0,16351
+Darjeeling,Hill Station,2022,4,April,Summer,15563,1586,68.6,0,17149
+Darjeeling,Hill Station,2022,5,May,Summer,16264,1638,71.4,0,17902
+Darjeeling,Hill Station,2022,6,June,Monsoon,17414,1733,75.1,0,19147
+Darjeeling,Hill Station,2022,7,July,Monsoon,13241,1302,68.9,0,14543
+Darjeeling,Hill Station,2022,8,August,Monsoon,15699,1524,71.4,0,17223
+Darjeeling,Hill Station,2022,9,September,Monsoon,16818,1613,74.8,0,18431
+Darjeeling,Hill Station,2022,10,October,Autumn,20605,2175,90.0,1,22780
+Darjeeling,Hill Station,2022,11,November,Autumn,24263,2532,96.0,1,26795
+Darjeeling,Hill Station,2022,12,December,Winter,26684,2752,96.0,1,29436
+Darjeeling,Hill Station,2023,1,January,Winter,10434,1063,68.6,0,11497
+Darjeeling,Hill Station,2023,2,February,Winter,12783,1287,61.4,0,14070
+Darjeeling,Hill Station,2023,3,March,Summer,15879,1580,67.8,0,17459
+Darjeeling,Hill Station,2023,4,April,Summer,16679,1639,70.6,0,18318
+Darjeeling,Hill Station,2023,5,May,Summer,17437,1693,73.4,0,19130
+Darjeeling,Hill Station,2023,6,June,Monsoon,18678,1791,77.1,0,20469
+Darjeeling,Hill Station,2023,7,July,Monsoon,14069,1485,70.9,0,15554
+Darjeeling,Hill Station,2023,8,August,Monsoon,14621,1526,73.4,0,16147
+Darjeeling,Hill Station,2023,9,September,Monsoon,17836,1840,76.8,0,19676
+Darjeeling,Hill Station,2023,10,October,Autumn,22078,2250,92.0,1,24328
+Darjeeling,Hill Station,2023,11,November,Autumn,26007,2619,96.0,1,28626
+Darjeeling,Hill Station,2023,12,December,Winter,28614,2847,95.4,1,31461
+Darjeeling,Hill Station,2024,1,January,Winter,11171,1098,60.6,0,12269
+Darjeeling,Hill Station,2024,2,February,Winter,12012,1166,63.4,0,13178
+Darjeeling,Hill Station,2024,3,March,Summer,16970,1627,69.8,0,18597
+Darjeeling,Hill Station,2024,4,April,Summer,17655,1864,72.6,0,19519
+Darjeeling,Hill Station,2024,5,May,Summer,18465,1927,75.4,0,20392
+Darjeeling,Hill Station,2024,6,June,Monsoon,19787,2041,79.1,0,21828
+Darjeeling,Hill Station,2024,7,July,Monsoon,15058,1535,72.9,0,16593
+Darjeeling,Hill Station,2024,8,August,Monsoon,15657,1577,75.4,0,17234
+Darjeeling,Hill Station,2024,9,September,Monsoon,16743,1666,78.8,0,18409
+Darjeeling,Hill Station,2024,10,October,Autumn,23598,2320,84.0,1,25918
+Darjeeling,Hill Station,2024,11,November,Autumn,27809,2700,91.6,1,30509
+Darjeeling,Hill Station,2024,12,December,Winter,30608,2935,96.0,1,33543

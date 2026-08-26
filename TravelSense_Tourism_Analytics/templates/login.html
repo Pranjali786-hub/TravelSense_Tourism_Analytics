@@ -1,0 +1,10 @@
+{% extends 'base.html' %}{% block title %}Login | TravelSense{% endblock %}
+{% block content %}<div class="row justify-content-center login-wrap"><div class="col-md-7 col-lg-5">
+  <div class="card login-card border-0 shadow"><div class="card-body p-4 p-md-5">
+    <div class="text-center mb-4"><div class="brand-mark">✈</div><h1 class="h3 fw-bold mt-3">Welcome to TravelSense</h1><p class="text-secondary mb-0">Tourism Analytics Platform</p></div>
+    <form method="post"><div class="mb-3"><label class="form-label">Username</label><input class="form-control form-control-lg" name="username" placeholder="Enter username" required autofocus></div>
+    <div class="mb-4"><label class="form-label">Password</label><input type="password" class="form-control form-control-lg" name="password" placeholder="Enter password" required></div>
+    <button class="btn btn-primary w-100 btn-lg">Login to Dashboard</button></form>
+    <p class="small text-center text-secondary mt-4 mb-0">Demo credentials: <strong>admin</strong> / <strong>Admin@123</strong></p>
+  </div></div>
+</div></div>{% endblock %}
